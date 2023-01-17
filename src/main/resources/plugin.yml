@@ -1,0 +1,7 @@
+name: PropDrops
+version: '${project.version}'
+main: adhdmc.propdrops.PropDrops
+api-version: 1.19
+authors: [ Rhythmic ]
+description: Drop all propagules
+website: https://github.com/RhythmicSys/PropDrops
